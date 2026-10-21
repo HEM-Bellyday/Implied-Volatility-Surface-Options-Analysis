@@ -1,0 +1,17 @@
+{
+  "r": 0.04079999923706055,
+  "tickers": {
+    "SPY": {
+      "spot": 769.0499877929688,
+      "download_date": "2026-10-21",
+      "rows": 3579,
+      "expiries": 10
+    },
+    "AAPL": {
+      "spot": 339.5,
+      "download_date": "2026-10-21",
+      "rows": 1247,
+      "expiries": 10
+    }
+  }
+}
